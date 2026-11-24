@@ -14,7 +14,9 @@ public class Git_2026488 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Karoline Cordeiro e Silva- 2026488");
+        System.out.println("Karoline Cordeiro e Silva - 2026488");
+        
+        System.out.println("Homework completed.");
     }
     
 }
